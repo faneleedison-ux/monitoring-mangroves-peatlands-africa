@@ -32,7 +32,7 @@ This project is part of research initiatives by **NRF & SARAO**, focusing on:
 ```
 monitoring-forests-peatlands-mangroves-africa/
 │
-├── assets/                 # Images and visual assets
+├── assets/                 
 ├── data/
 ├── notebooks/
 ├── scripts/
@@ -67,7 +67,6 @@ monitoring-forests-peatlands-mangroves-africa/
 ---
 
 ## 🚀 Future Work
-![Future Work](assets/future_work_image1.jpg)
 - Expand dataset coverage across more African countries  
 - Collaborate with conservation agencies for validation  
 - Explore **deep learning approaches** for improved classification  
