@@ -37,20 +37,20 @@ monitoring-forests-peatlands-mangroves-africa/
 ---
 
 ## 📊 Sample Results
-![Peatland & Mangrove Results](assets/results_image1.png)
-![Peatland & Mangrove Results](assets/results_image2.png)
-![Peatland & Mangrove Results](assets/results_image3.png)
-![Peatland & Mangrove Results](assets/results_image4.png)
-![Peatland & Mangrove Results](assets/results_image5.png)
-![Peatland & Mangrove Results](assets/results_image6.png)
-![Peatland & Mangrove Results](assets/results_image7.png)
-![Peatland & Mangrove Results](assets/results_image8.png)
-![Peatland & Mangrove Results](assets/results_image9.png)
+![Peatland & Mangrove Results](assets/results_image1.jpg)
+![Peatland & Mangrove Results](assets/results_image2.jpg)
+![Peatland & Mangrove Results](assets/results_image3.jpg)
+![Peatland & Mangrove Results](assets/results_image4.jpg)
+![Peatland & Mangrove Results](assets/results_image5.jpg)
+![Peatland & Mangrove Results](assets/results_image6.jpg)
+![Peatland & Mangrove Results](assets/results_image7.jpg)
+![Peatland & Mangrove Results](assets/results_image8.jpg)
+![Peatland & Mangrove Results](assets/results_image9.jpg)
 
 ---
 
 ## ℹ️ About the Project
-![About Project](assets/about_image1.png)
+![About Project](assets/about_image1.jpg)
 
 This project is part of research initiatives by **NRF & SARAO**, focusing on:
 - Tracking changes in mangroves and peatlands over time  
@@ -60,7 +60,7 @@ This project is part of research initiatives by **NRF & SARAO**, focusing on:
 ---
 
 ## 🚀 Future Work
-![Future Work](assets/future_work_image1.png)
+![Future Work](assets/future_work_image1.jpg)
 - Expand dataset coverage across more African countries  
 - Collaborate with conservation agencies for validation  
 - Explore **deep learning approaches** for improved classification  
@@ -69,7 +69,7 @@ This project is part of research initiatives by **NRF & SARAO**, focusing on:
 ---
 
 ## 📚 Resources & References
-![Resources](assets/about_image1.png)
+![Resources](assets/about_image1.jpg)
 - [Landsat Surface Reflectance](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks/blob/main/Datasets/Landsat_Surface_Reflectance.ipynb)  
 - [Sentinel-2](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks/blob/main/Datasets/Sentinel_2.ipynb)  
 - [GeoMAD](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks/blob/main/Datasets/GeoMAD.ipynb)  
