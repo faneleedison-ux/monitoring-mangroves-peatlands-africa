@@ -75,7 +75,6 @@ monitoring-forests-peatlands-mangroves-africa/
 ---
 
 ## 📚 Resources & References
-![Resources](assets/about_image1.jpg)
 - [Landsat Surface Reflectance](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks/blob/main/Datasets/Landsat_Surface_Reflectance.ipynb)  
 - [Sentinel-2](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks/blob/main/Datasets/Sentinel_2.ipynb)  
 - [GeoMAD](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks/blob/main/Datasets/GeoMAD.ipynb)  
