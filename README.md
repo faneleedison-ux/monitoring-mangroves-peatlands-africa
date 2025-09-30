@@ -1,7 +1,15 @@
 # Monitoring Forests, Peatlands, and Mangroves in Africa
 
 This project focuses on monitoring and mapping **forests, peatlands, and mangroves** across Africa using remote sensing data and machine learning methods. These ecosystems are critical for climate regulation, carbon capture, and coastal protection, yet they remain under-monitored on the continent.
+---
 
+## ℹ️ About the Project
+![About Project](assets/about_image1.jpg)
+
+This project is part of research initiatives by **NRF & SARAO**, focusing on:
+- Tracking changes in mangroves and peatlands over time  
+- Identifying unmonitored areas for conservation  
+- Supporting environmental research and global CO₂ reduction efforts  
 ---
 
 ## 🌍 Project Objectives
@@ -38,24 +46,23 @@ monitoring-forests-peatlands-mangroves-africa/
 
 ## 📊 Sample Results
 ![Peatland & Mangrove Results](assets/results_image1.jpg)
+
 ![Peatland & Mangrove Results](assets/results_image2.jpg)
+
 ![Peatland & Mangrove Results](assets/results_image3.jpg)
+
 ![Peatland & Mangrove Results](assets/results_image4.jpg)
+
 ![Peatland & Mangrove Results](assets/results_image5.jpg)
+
 ![Peatland & Mangrove Results](assets/results_image6.jpg)
+
 ![Peatland & Mangrove Results](assets/results_image7.jpg)
+
 ![Peatland & Mangrove Results](assets/results_image8.jpg)
+
 ![Peatland & Mangrove Results](assets/results_image9.jpg)
 
----
-
-## ℹ️ About the Project
-![About Project](assets/about_image1.jpg)
-
-This project is part of research initiatives by **NRF & SARAO**, focusing on:
-- Tracking changes in mangroves and peatlands over time  
-- Identifying unmonitored areas for conservation  
-- Supporting environmental research and global CO₂ reduction efforts  
 
 ---
 
