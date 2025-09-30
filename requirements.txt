@@ -1,0 +1,23 @@
+# Data manipulation
+numpy>=1.23.0
+pandas>=2.0.0
+geopandas>=0.13.0
+shapely>=2.0.0
+rasterio>=1.3.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+folium>=0.16.0
+plotly>=5.15.0
+
+# Jupyter notebooks
+notebook>=7.0.0
+jupyterlab>=4.0.0
+
+# Optional: satellite imagery tools
+sentinelsat>=1.0.1
+earthengine-api>=0.1.326
