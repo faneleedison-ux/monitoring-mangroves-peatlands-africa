@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Monitoring Forests, Peatlands, and Mangroves in Africa
 
 This project focuses on the monitoring and mapping of **forests, peatlands, and mangroves** across Africa using remote sensing data and machine learning methods. These ecosystems are critical for climate regulation, carbon capture, and coastal protection, yet they remain under-monitored on the continent.
